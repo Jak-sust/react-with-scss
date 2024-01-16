@@ -1,0 +1,6 @@
+
+//mixins
+@mixin paragraph-width ($paddingLeft: 0) {
+    padding-left: $paddingLeft;
+    color: #34a3e4;
+} 

@@ -1,0 +1,11 @@
+@use "constants";
+//Place holder css
+%link{
+    font-weight: 700;
+    text-decoration: none;
+    color: constants.$white;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
